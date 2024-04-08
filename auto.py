@@ -14,12 +14,12 @@ from watchdog.events import LoggingEventHandler
 from watchdog.events import FileSystemEventHandler
 
 
-source_dir = "/Users/oliviachoma/Downloads"
-dest_dir_sfx = "/Users/oliviachoma/Downloads/Downloaded_Sound"
-dest_dir_music = "/Users/oliviachoma/Downloads/Downloaded_Sound/Music"
-dest_dir_video = "/Users/oliviachoma/Downloads/Downloaded_Videos"
-dest_dir_image = "/Users/oliviachoma/Downloads/Downloaded_Images"
-dest_dir_documents = "/Users/oliviachoma/Downloads/Downloaded_Documents"
+source_dir = ""
+dest_dir_sfx = ""
+dest_dir_music = ""
+dest_dir_video = ""
+dest_dir_image = ""
+dest_dir_documents = ""
 
 
 
